@@ -1,5 +1,5 @@
 # Research Papers
-The Implementation of Ideas in Research Papers. The links below will direct you to the **Source Code**
+The Implementation of Ideas in Research Papers. 
 
 **[1. Deep learning](https://creativecoding.soe.ucsc.edu/courses/cs523/slides/week3/DeepLearning_LeCun.pdf)**
 > Yann LeCun, Yoshua Bengio & Geoffrey Hinton
