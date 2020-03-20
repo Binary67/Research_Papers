@@ -1,5 +1,5 @@
 # Research Papers
-The Implementation of Ideas in Research Papers. 
+The Implementation of Research Papers. 
 
 **[1. Deep learning](https://github.com/Binary67/Research_Paper/tree/master/1.%20Deep%20Learning)**
 > Yann LeCun, Yoshua Bengio & Geoffrey Hinton
